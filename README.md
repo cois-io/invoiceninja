@@ -1,6 +1,6 @@
 # InvoiceNinja
 
-[![](https://images.microbadger.com/badges/image/webhippie/invoiceninja.svg)](https://microbadger.com/images/webhippie/invoiceninja "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/webhippie/invoiceninjai:2.4.5.svg)](https://microbadger.com/images/webhippie/invoiceninja:2.4.5 "Get your own image badge on microbadger.com")
 
 These are docker images for [InvoiceNinja](https://www.invoiceninja.com/) with Caddy running on a [PHP container](https://registry.hub.docker.com/u/webhippie/php-caddy/).
 
